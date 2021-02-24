@@ -58,7 +58,7 @@ Projeto node
 - rodar projeto: yarn dev:server
 - rota: http://localhost:3333//products
 
- Projeto React
+Projeto React
 - instalar: yarn
 - rodar projeto: yarn start
 

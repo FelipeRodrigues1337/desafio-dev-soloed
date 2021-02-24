@@ -54,13 +54,13 @@ Baseado no layout ([Figma](https://www.figma.com/file/sl23D5HJ2d3rgUTlnkHaJN/Sol
 # Soloed\_ Store
 
 - Projeto node
-    instalar: yarn
-    rodar projeto: yarn dev:server
-    rota: http://localhost:3333//products
+- instalar: yarn
+- rodar projeto: yarn dev:server
+- rota: http://localhost:3333//products
 
 - Projeto React
-    instalar: yarn
-    rodar projeto: yarn start
+- instalar: yarn
+- rodar projeto: yarn start
 
 
  - Para o backend foi construido uma API em node que retorna através do request os produtos em formato json.
